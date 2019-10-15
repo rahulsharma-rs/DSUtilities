@@ -1,0 +1,56 @@
+Prediction with attributes : ['weekoftheyear', 'Dayinmonth', 'Weekday', 'Hours', 'Quarterinhour']
+intercept = -6.408544
+coefficent : [ [ 2.76427507  0.04111129  2.53407785  5.54964587 -1.82397774] ]
+Root Mean Square Error: 158.795971
+Mean Absolute Error: 138.330865
+Mean Square Error: 25216.160522
+------XXXXXX--------
+Prediction with attributes : ['Dayinmonth', 'Weekday', 'Hours', 'Quarterinhour']
+intercept = -219.558489
+coefficent : [ [ 9.17952931  2.63340849  5.54954442 -1.82397774] ]
+Root Mean Square Error: 148.162767
+Mean Absolute Error: 117.188654
+Mean Square Error: 21952.205463
+------XXXXXX--------
+Prediction with attributes : ['Weekday', 'Hours', 'Quarterinhour']
+intercept = 59.804056
+coefficent : [ [ 2.533631    5.54956009 -1.82397774] ]
+Root Mean Square Error: 148.094189
+Mean Absolute Error: 115.848343
+Mean Square Error: 21931.888740
+------XXXXXX--------
+Prediction with attributes : ['Weekday', 'Hours']
+intercept = 55.244112
+coefficent : [ [ 2.533631    5.54956009] ]
+Root Mean Square Error: 148.110731
+Mean Absolute Error: 115.865856
+Mean Square Error: 21936.788646
+------XXXXXX--------
+Prediction with attributes : ['Hours', 'Quarterinhour']
+intercept = 67.404713
+coefficent : [ [ 5.54958061 -1.82397774] ]
+Root Mean Square Error: 148.256826
+Mean Absolute Error: 115.798845
+Mean Square Error: 21980.086344
+------XXXXXX--------
+Prediction with attributes : ['Hours']
+intercept = 62.844769
+coefficent : [ [ 5.54958061] ]
+Root Mean Square Error: 148.273350
+Mean Absolute Error: 115.818698
+Mean Square Error: 21984.986250
+------XXXXXX--------
+Prediction with attributes : ['Dayinmonth', 'Hours']
+intercept = -211.649721
+coefficent : [ [ 9.02924504  5.549566  ] ]
+Root Mean Square Error: 148.321260
+Mean Absolute Error: 117.135713
+Mean Square Error: 21999.196180
+------XXXXXX--------
+Prediction with attributes : ['weekoftheyear', 'Hours']
+intercept = -2.130480
+coefficent : [ [ 2.76486219  5.54966648] ]
+Root Mean Square Error: 158.872601
+Mean Absolute Error: 138.270781
+Mean Square Error: 25240.503474
+------XXXXXX--------
