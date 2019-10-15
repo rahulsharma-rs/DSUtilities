@@ -1,0 +1,7 @@
+This script generated results in "observation" folder 
+"observation" must have folders named "iter0", "iter1",..."iterN" depending upon the number upon the iteration are being used.
+In "observation" folder as report is also generated "comparitiveReport.txt"
+
+Each "iterN" folder consists of 10 folders "pass0",..."pass9" a the research design
+Each "passN" folder will have one log file "Modelcomparison.txt", and ROC curves and confusion matrices for all the
+10-fold validation in each "passN" folder.
